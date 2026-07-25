@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322495837903",
+    "project_id": "lucco-fashion-app-dd028",
+    "storage_bucket": "lucco-fashion-app-dd028.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322495837903:android:4188f1d0bdc94006c769ba",
+        "android_client_info": {
+          "package_name": "com.example.lucco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgh6_rQTyi2fUmYreLn5Ts5JTEAm9_ros"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322495837903:android:9c947313ea41eb1bc769ba",
+        "android_client_info": {
+          "package_name": "com.lucco.fashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgh6_rQTyi2fUmYreLn5Ts5JTEAm9_ros"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
