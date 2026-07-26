@@ -1,0 +1,226 @@
+[ +355 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +2 ms] executing: [C:\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +467 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-03-25 16:21:00 -0700
+[  +38 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +6 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +199 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +6 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +293 ms] Skipping pub get: version match.
+[ +263 ms] Found plugin shared_preferences at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[  +17 ms] Found plugin shared_preferences_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[  +18 ms] Found plugin path_provider_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +26 ms] Found plugin shared_preferences_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +9 ms] Found plugin shared_preferences_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +6 ms] Found plugin path_provider_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[  +16 ms] Found plugin shared_preferences_foundation at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +8 ms] Found plugin shared_preferences_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[  +29 ms] Found plugin image_picker at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +7 ms] Found plugin image_picker_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[  +21 ms] Found plugin file_selector_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +7 ms] Found plugin image_picker_macos at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +4 ms] Found plugin file_selector_macos at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +4 ms] Found plugin image_picker_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +4 ms] Found plugin file_selector_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +4 ms] Found plugin image_picker_ios at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +4 ms] Found plugin image_picker_for_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +6 ms] Found plugin image_picker_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+17\
+[   +3 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[  +11 ms] Found plugin path_provider at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +4 ms] Found plugin path_provider_foundation at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +31 ms] Found plugin path_provider_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +4 ms] Found plugin jni_flutter at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[   +4 ms] Found plugin jni at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[  +14 ms] Found plugin firebase_storage at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.4.3\
+[   +3 ms] Found plugin firebase_storage_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.11.9\
+[   +7 ms] Found plugin firebase_core at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.11.0\
+[   +3 ms] Found plugin firebase_core_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.9.0\
+[  +11 ms] Found plugin firebase_messaging at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-16.4.1\
+[   +3 ms] Found plugin firebase_messaging_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-4.2.1\
+[   +9 ms] Found plugin firebase_auth at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.5.4\
+[   +3 ms] Found plugin firebase_auth_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.2.3\
+[   +9 ms] Found plugin cloud_firestore at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.6.0\
+[   +3 ms] Found plugin cloud_firestore_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.6.0\
+[  +17 ms] Found plugin sqflite at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[  +11 ms] Found plugin sqflite_darwin at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +3 ms] Found plugin sqflite_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[ +315 ms] Found plugin shared_preferences at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +5 ms] Found plugin shared_preferences_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +7 ms] Found plugin path_provider_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +13 ms] Found plugin shared_preferences_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +9 ms] Found plugin shared_preferences_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms] Found plugin path_provider_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +5 ms] Found plugin shared_preferences_foundation at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +4 ms] Found plugin shared_preferences_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[  +20 ms] Found plugin image_picker at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +3 ms] Found plugin image_picker_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[  +17 ms] Found plugin file_selector_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +5 ms] Found plugin image_picker_macos at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +3 ms] Found plugin image_picker_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +6 ms] Found plugin file_selector_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +4 ms] Found plugin image_picker_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+17\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[   +5 ms] Found plugin path_provider at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +24 ms] Found plugin path_provider_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[  +11 ms] Found plugin jni_flutter at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[   +5 ms] Found plugin jni at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[  +13 ms] Found plugin firebase_storage at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.4.3\
+[   +3 ms] Found plugin firebase_storage_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.11.9\
+[   +7 ms] Found plugin firebase_core at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.11.0\
+[   +4 ms] Found plugin firebase_core_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.9.0\
+[  +10 ms] Found plugin firebase_messaging at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-16.4.1\
+[   +4 ms] Found plugin firebase_messaging_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-4.2.1\
+[   +6 ms] Found plugin firebase_auth at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.5.4\
+[   +4 ms] Found plugin firebase_auth_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.2.3\
+[   +8 ms] Found plugin cloud_firestore at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.6.0\
+[   +3 ms] Found plugin cloud_firestore_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.6.0\
+[  +19 ms] Found plugin sqflite at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[   +9 ms] Found plugin sqflite_darwin at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +3 ms] Found plugin sqflite_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[  +66 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[ +111 ms] Found plugin shared_preferences at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +4 ms] Found plugin shared_preferences_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[  +14 ms] Found plugin path_provider_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +27 ms] Found plugin shared_preferences_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +6 ms] Found plugin shared_preferences_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms] Found plugin path_provider_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[  +18 ms] Found plugin shared_preferences_foundation at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +6 ms] Found plugin shared_preferences_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[  +43 ms] Found plugin image_picker at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[  +50 ms] Found plugin file_selector_windows at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[  +19 ms] Found plugin image_picker_macos at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +7 ms] Found plugin file_selector_macos at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +5 ms] Found plugin image_picker_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +3 ms] Found plugin file_selector_linux at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +4 ms] Found plugin image_picker_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+17\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[   +4 ms] Found plugin path_provider at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +5 ms] Found plugin path_provider_foundation at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +30 ms] Found plugin path_provider_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +2 ms] Found plugin jni_flutter at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[   +2 ms] Found plugin jni at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[   +6 ms] Found plugin firebase_storage at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.4.3\
+[   +2 ms] Found plugin firebase_storage_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.11.9\
+[   +3 ms] Found plugin firebase_core at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.11.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.9.0\
+[   +9 ms] Found plugin firebase_messaging at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-16.4.1\
+[   +1 ms] Found plugin firebase_messaging_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-4.2.1\
+[   +2 ms] Found plugin firebase_auth at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.5.4\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.2.3\
+[   +3 ms] Found plugin cloud_firestore at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.6.0\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.6.0\
+[   +7 ms] Found plugin sqflite at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[   +4 ms] Found plugin sqflite_darwin at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\ONCALL\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[ +124 ms] Generating C:\Users\ONCALL\lucco\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[  +11 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[  +20 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +8 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +6 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[  +10 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[  +14 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +9 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[  +11 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[  +13 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +346 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[  +17 ms] Android Studio version could not be detected, skipping Gradle-Java version compatibility check.
+[  +76 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[  +37 ms] Using gradle from C:\Users\ONCALL\lucco\android\gradlew.bat.
+[  +23 ms] LocalFile: 'C:\Users\ONCALL\lucco\android\build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[   +4 ms] LocalFile: 'C:\Users\ONCALL\lucco\android\settings.gradle.kts' provides AGP version: 8.7.0
+[  +31 ms] Running Gradle task 'assembleRelease'...
+[  +11 ms] executing: [C:\Users\ONCALL\lucco\android/] C:\Users\ONCALL\lucco\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuNDEuNg==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZGI1MGUyMDE2OA==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049NDI1Y2ZiNTRkMA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMS40 -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=true assembleRelease
+[  +11 ms] Initialized native services in: C:\Users\ONCALL\.gradle\native
+[   +5 ms] Initialized jansi services in: C:\Users\ONCALL\.gradle\native
+[ +894 ms] Found daemon DaemonInfo{pid=8404, address=[b2ffbe7c-dce7-482c-a3b6-2d310eed69db port:51120, addresses:[/127.0.0.1]], state=Idle, lastBusy=1782408993903, context=DefaultDaemonContext[uid=acaab559-6312-4f9d-b665-39bcda71314c,javaHome=C:\Program Files\Java\jdk-17,javaVersion=17,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\ONCALL\.gradle\daemon,pid=8404,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-Xmx2048M,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[   +1 ms] JVM is incompatible.
+[   +2 ms] Wanted: DaemonRequestContext{jvmCriteria=C:\Users\ONCALL\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\25 (no JDK specified, using current Java home), daemonOpts=[-XX:MaxMetaspaceSize=4G, -XX:ReservedCodeCacheSize=512m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx8G, -Dfile.encoding=UTF-8, -Duser.country=US, -Duser.language=en, -Duser.variant], applyInstrumentationAgent=true, nativeServicesMode=ENABLED, priority=NORMAL}
+[   +1 ms] Actual: DefaultDaemonContext[uid=acaab559-6312-4f9d-b665-39bcda71314c,javaHome=C:\Program Files\Java\jdk-17,javaVersion=17,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\ONCALL\.gradle\daemon,pid=8404,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-Xmx2048M,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[   +3 ms]   Looking for a different daemon...
+[   +1 ms] Found daemon DaemonInfo{pid=13864, address=[3ae42634-f71a-46aa-8fdf-1ffb72f40a86 port:57815, addresses:[/127.0.0.1]], state=Idle, lastBusy=1782660273044, context=DefaultDaemonContext[uid=f5a930fc-9825-493f-87c8-6c91ed7ce443,javaHome=C:\Program Files\Java\jdk-17,javaVersion=17,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\ONCALL\.gradle\daemon,pid=13864,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-Xmx2048M,-Dfile.encoding=UTF-8,-Duser.country,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[        ] JVM is incompatible.
+[        ] Wanted: DaemonRequestContext{jvmCriteria=C:\Users\ONCALL\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\25 (no JDK specified, using current Java home), daemonOpts=[-XX:MaxMetaspaceSize=4G, -XX:ReservedCodeCacheSize=512m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx8G, -Dfile.encoding=UTF-8, -Duser.country=US, -Duser.language=en, -Duser.variant], applyInstrumentationAgent=true, nativeServicesMode=ENABLED, priority=NORMAL}
+[        ] Actual: DefaultDaemonContext[uid=f5a930fc-9825-493f-87c8-6c91ed7ce443,javaHome=C:\Program Files\Java\jdk-17,javaVersion=17,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\ONCALL\.gradle\daemon,pid=13864,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-Xmx2048M,-Dfile.encoding=UTF-8,-Duser.country,-Duser.language=en,-Duser.variant]
+[        ]   Looking for a different daemon...
+[        ] Found daemon DaemonInfo{pid=10904, address=[60dfd5a9-e5c5-41be-89f4-73b99bc82480 port:52924, addresses:[/127.0.0.1]], state=Idle, lastBusy=1784995103282, context=DefaultDaemonContext[uid=c20b540c-6ff0-4e5a-bec6-88d4ba7dad50,javaHome=C:\Program Files\Java\jdk-17,javaVersion=17,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\ONCALL\.gradle\daemon,pid=10904,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=4G,-XX:ReservedCodeCacheSize=512m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx8G,-Dfile.encoding=UTF-8,-Duser.country,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[        ] JVM is incompatible.
+[        ] Wanted: DaemonRequestContext{jvmCriteria=C:\Users\ONCALL\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\25 (no JDK specified, using current Java home), daemonOpts=[-XX:MaxMetaspaceSize=4G, -XX:ReservedCodeCacheSize=512m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx8G, -Dfile.encoding=UTF-8, -Duser.country=US, -Duser.language=en, -Duser.variant], applyInstrumentationAgent=true, nativeServicesMode=ENABLED, priority=NORMAL}
+[        ] Actual: DefaultDaemonContext[uid=c20b540c-6ff0-4e5a-bec6-88d4ba7dad50,javaHome=C:\Program Files\Java\jdk-17,javaVersion=17,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\ONCALL\.gradle\daemon,pid=10904,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=4G,-XX:ReservedCodeCacheSize=512m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx8G,-Dfile.encoding=UTF-8,-Duser.country,-Duser.language=en,-Duser.variant]
+[        ]   Looking for a different daemon...
+[ +281 ms] The client will now receive all logging from the daemon (pid: 6788). The daemon log file: C:\Users\ONCALL\.gradle\daemon\8.14\daemon-6788.out.log
+[   +1 ms] Starting 8th build in daemon [uptime: 1 hrs 24 mins 2.159 secs, performance: 96%, GC rate: 0.00/s, heap usage: 0% of 8 GiB, non-heap usage: 1% of 4 GiB]
+[        ] Using 4 worker leases.
+[   +3 ms] Now considering [C:\Users\ONCALL\lucco\android] as hierarchies to watch
+[   +2 ms] Watching the file system is configured to be enabled if available
+[        ] File system watching is active
+[  +87 ms] Starting Build
+[ +285 ms] Caching disabled for Kotlin DSL script compilation (Settings/TopLevel/stage1) because:
+[   +1 ms]   Build cache is disabled
+[  +15 ms] Watched directory hierarchies: []
+[ +108 ms] Running Gradle task 'assembleRelease'... (completed in 5.0s)
+[  +99 ms] "flutter apk" took 8,167ms.
+[   +1 ms] Running 1 shutdown hook
+[   +2 ms] Shutdown hooks complete
+[ +195 ms] exiting with code 1
