@@ -86,7 +86,7 @@ class OrderDetailsScreen extends StatelessWidget {
             const Card(
               child: ListTile(
                 leading: Icon(Icons.location_on),
-                title: Text("Fathima Mafaza"),
+                title: Text("Nowfa Begum"),
                 subtitle: Text("123 Main Street,\nTrincomalee, Sri Lanka"),
               ),
             ),

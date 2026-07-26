@@ -22,7 +22,7 @@ class _WishlistScreenState extends State<WishlistScreen> {
     {
       "name": "Running Shoes",
       "price": "Rs. 15,990",
-      "image": "assets/images/products/Classic_shoes.jpg",
+      "image": "assets/images/products/classic_shoes.jpg",
     },
   ];
 
