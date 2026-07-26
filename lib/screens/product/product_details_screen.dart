@@ -28,21 +28,21 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
       ),
 
       body: SingleChildScrollView(
-  child: Column(
-    crossAxisAlignment: CrossAxisAlignment.start,
-    children: [
-      ClipRRect(
-        borderRadius: const BorderRadius.only(
-          bottomLeft: Radius.circular(25),
-          bottomRight: Radius.circular(25),
-        ),
-        child: Image.asset(
-          "assets/images/products/luxury_dress.jpg",
-          height: 320,
-          width: double.infinity,
-          fit: BoxFit.cover,
-        ),
-      ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            ClipRRect(
+              borderRadius: const BorderRadius.only(
+                bottomLeft: Radius.circular(25),
+                bottomRight: Radius.circular(25),
+              ),
+              child: Image.asset(
+                "assets/images/products/luxury_dress.jpg",
+                height: 320,
+                width: double.infinity,
+                fit: BoxFit.cover,
+              ),
+            ),
 
             Padding(
               padding: const EdgeInsets.all(16),
@@ -67,13 +67,13 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
                   const SizedBox(height: 15),
 
                   const Text(
-  "LKR 24,990",
-  style: TextStyle(
-    color: Color.fromRGBO(245, 107, 119, 1),
-    fontSize: 26,
-    fontWeight: FontWeight.bold,
-  ),
-),
+                    "LKR 24,990",
+                    style: TextStyle(
+                      color: Color.fromRGBO(245, 107, 119, 1),
+                      fontSize: 26,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
 
                   const SizedBox(height: 20),
 

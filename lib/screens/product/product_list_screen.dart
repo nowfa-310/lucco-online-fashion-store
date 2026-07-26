@@ -45,7 +45,7 @@ class _ProductListScreenState extends State<ProductListScreen> {
     "oldPrice": 19990,
     "rating": 4.9,
     "favorite": false,
-    "image": "assets/images/products/running_shoes.jpg",
+    "image": "assets/images/products/classic_shoes.jpg",
   },
   {
     "name": "Luxury Handbag",
